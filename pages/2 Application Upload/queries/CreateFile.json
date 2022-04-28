@@ -18,15 +18,20 @@
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "formData": {
+        "body": {
+          "data": "{{FilePicker1.files[0]}}",
+          "viewType": "component",
+          "componentData": "{{FilePicker1.files[0]}}"
+        },
         "bucket": {
           "data": "appsmith-mock",
           "viewType": "component",
           "componentData": "appsmith-mock"
         },
-        "path": {
-          "data": "/templates/applicanttracker{{Math.random(100).toString().concat(FilePicker1.files[0].name)}}",
+        "command": {
+          "data": "UPLOAD_FILE_FROM_BODY",
           "viewType": "component",
-          "componentData": "/templates/applicanttracker{{Math.random(100).toString().concat(FilePicker1.files[0].name)}}"
+          "componentData": "UPLOAD_FILE_FROM_BODY"
         },
         "create": {
           "dataType": {
@@ -40,15 +45,10 @@
             "componentData": "{{24*60}}"
           }
         },
-        "body": {
-          "data": "{{FilePicker1.files[0]}}",
+        "path": {
+          "data": "/templates/applicanttracker{{Math.random(100).toString().concat(FilePicker1.files[0].name)}}",
           "viewType": "component",
-          "componentData": "{{FilePicker1.files[0]}}"
-        },
-        "command": {
-          "data": "UPLOAD_FILE_FROM_BODY",
-          "viewType": "component",
-          "componentData": "UPLOAD_FILE_FROM_BODY"
+          "componentData": "/templates/applicanttracker{{Math.random(100).toString().concat(FilePicker1.files[0].name)}}"
         },
         "smartSubstitution": {
           "data": true,
