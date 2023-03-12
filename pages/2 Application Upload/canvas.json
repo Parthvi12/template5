@@ -828,34 +828,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Button5",
-          "Button5Copy",
-          "Canvas1",
-          "Canvas12",
-          "Canvas7",
-          "Container4",
-          "Container7",
-          "FilePicker1",
-          "FormButton1",
-          "FormButton2",
-          "Image2",
-          "MainContainer",
-          "Resume_URL",
-          "Text2",
-          "Text3",
-          "Text33",
-          "Text34",
-          "Text38",
-          "Text4",
-          "Text5",
-          "Text6",
-          "application_form",
-          "email",
-          "name",
-          "phoneNo",
-          "role"
-        ],
         "validOnPageLoadActions": true,
         "id": "2 Application Upload",
         "deleted": false,
@@ -867,6 +839,5 @@
     "policies": []
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "61c170fe9229e87746b79e05_61c433d6e89bc475f3cbc8a8"
 }
