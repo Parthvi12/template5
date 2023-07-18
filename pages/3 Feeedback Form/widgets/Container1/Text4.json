@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text4",
+    "rightColumn": 44,
+    "textAlign": "LEFT",
+    "widgetId": "kspojyge3p",
+    "topRow": 2,
+    "bottomRow": 6,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "9vxrx3hlsa",
+    "isLoading": false,
+    "parentColumnSpace": 29.875,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 2,
+    "dynamicBindingPathList": [{"key": "text"}],
+    "fontSize": "HEADING1",
+    "text": "Interviewer: null"
+}

@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text4Copy",
+    "rightColumn": 44,
+    "textAlign": "LEFT",
+    "widgetId": "u5d0gk8eil",
+    "topRow": 7,
+    "bottomRow": 12,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "9vxrx3hlsa",
+    "isLoading": false,
+    "parentColumnSpace": 29.875,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 2,
+    "dynamicBindingPathList": [{"key": "text"}],
+    "fontSize": "HEADING1",
+    "text": "Interviewee: null"
+}

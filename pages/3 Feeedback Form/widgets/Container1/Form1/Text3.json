@@ -1,0 +1,22 @@
+{
+    "widgetName": "Text3",
+    "rightColumn": 24,
+    "textAlign": "LEFT",
+    "widgetId": "yjxgo936ua",
+    "topRow": 24,
+    "bottomRow": 28,
+    "parentRowSpace": 40,
+    "isVisible": true,
+    "type": "TEXT_WIDGET",
+    "fontStyle": "BOLD",
+    "version": 1,
+    "textColor": "#231F20",
+    "parentId": "5cym4ngton",
+    "isLoading": false,
+    "parentColumnSpace": 29.875,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
+    "dynamicBindingPathList": [],
+    "fontSize": "PARAGRAPH",
+    "text": "Overall Rating:"
+}
